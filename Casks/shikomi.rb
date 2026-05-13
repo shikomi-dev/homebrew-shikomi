@@ -1,6 +1,6 @@
 cask "shikomi" do
-  version "0.1.0"
-  sha256 "ee8789a76e6f832bbe821316182bcf5e895facc4af1d9d28dcf49a1846ff9e84"
+  version "0.1.1"
+  sha256 "b7d3e0726147453b404d6e477438e31084b0908e1a228320de5bc25e87152a4d"
 
   url "https://github.com/shikomi-dev/shikomi/releases/download/v\#{version}/shikomi_\#{version}_aarch64.dmg"
   name "shikomi"
